@@ -5,8 +5,8 @@ I'm Priscila, a determined and resilient IT professional with 6 years of experie
 
 - 🔭 &nbsp; I’m currently learning C# ASP.NET Core for my Final Project
 - 🎓 &nbsp; I'm studying Computer Science in Dublin.
-- 🧩 &nbsp; Problem solver who loves untangling complex challenges in code and beyond.
-- 🎮 &nbsp; Enjoys playing puzzle games and constantly seeking the next mental challenge.
+- 🧩 &nbsp; I'm a problem solver who loves untangling complex challenges in code and beyond.
+- 🎮 &nbsp; I enjoy playing puzzle games and I'm constantly seeking the next mental challenge.
 - 📫 &nbsp; You can reach me on [LinkedIn](https://www.linkedin.com/in/priscilarochadequeiroz/).
 
 <h3>🛠 Tech Stack</h3>
