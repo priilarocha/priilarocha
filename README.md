@@ -1,4 +1,23 @@
-### Hi there 👋
+<h1>Hi there 👋 </h1> 
+I'm Priscila, a determined and resilient IT professional with 6 years of experience as an IT technician at Xerox/Conduent. Currently pursuing a Bachelor’s in Science in Computing at Dorset College Dublin.
+<img align="right" alt="GIF" src="https://media4.giphy.com/media/1GEATImIxEXVR79Dhk/giphy.gif?cid=ecf05e4773n57ewtc39d0imljv36z7nkndwgbzct7zj7kxuj&ep=v1_gifs_search&rid=giphy.gif&ct=g" width="500"/> 
+<h3> 👨🏻‍💻 About Me </h3>
+
+- 🔭 &nbsp; I’m currently learning C# ASP.NET Core for my Final Project
+- 🎓 &nbsp; I'm studying Computer Science in Dublin.
+- 🧩 &nbsp; Problem solver who loves untangling complex challenges in code and beyond.
+- 🎮 &nbsp; Enjoys playing puzzle games and constantly seeking the next mental challenge.
+- 📫 &nbsp; You can reach me on [LinkedIn](https://www.linkedin.com/in/priscilarochadequeiroz/).
+
+<h3>🛠 Tech Stack</h3>
+
+- 💻 &nbsp; Java | JavaScript | Phyton | C#  
+- 🌐 &nbsp; React | HTML | CSS | .NET
+- 🛢 &nbsp; MySQL | Postman
+- 🔧 &nbsp; Visual Studio 2022 | Visual Studio Code  | Git
+- 🖥 &nbsp; Figma
+
+
 
 <!--
 **priilarocha/priilarocha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
