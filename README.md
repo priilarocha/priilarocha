@@ -3,7 +3,7 @@ I'm Priscila, a determined and resilient IT professional with 6 years of experie
 <img align="right" alt="GIF" src="https://media4.giphy.com/media/1GEATImIxEXVR79Dhk/giphy.gif?cid=ecf05e4773n57ewtc39d0imljv36z7nkndwgbzct7zj7kxuj&ep=v1_gifs_search&rid=giphy.gif&ct=g" width="500"/> 
 <h3> 👨🏻‍💻 About Me </h3>
 
-- 🔭 &nbsp; I’m currently learning C# ASP.NET Core for my Final Project
+- 🔭 &nbsp; I was learning C# ASP.NET Core for my Final Project
 - 🎓 &nbsp; I'm studying Computer Science in Dublin.
 - 🧩 &nbsp; I'm a problem solver who loves untangling complex challenges in code and beyond.
 - 🎮 &nbsp; I enjoy playing puzzle games and I'm constantly seeking the next mental challenge.
